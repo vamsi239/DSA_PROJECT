@@ -36,3 +36,11 @@ This project implements a Binary Search Tree (BST) in C++ with the following fun
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
 
+2. **Compile the code**:
+   g++ main.cpp -o bst
+
+3. **Run the Executable**:
+   ./bst
+
+
+
