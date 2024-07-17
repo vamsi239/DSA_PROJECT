@@ -42,5 +42,7 @@ This project implements a Binary Search Tree (BST) in C++ with the following fun
 3. **Run the Executable**:
    ./bst
 
+## Conclusion
 
+This project provides a comprehensive implementation of a Binary Search Tree (BST) in C++. The BST supports standard operations like insertion, deletion, search, and various traversal methods, along with additional functionalities such as finding minimum/maximum keys and calculating the tree height. This serves as a foundational example for understanding and working with binary search trees in C++.
 
